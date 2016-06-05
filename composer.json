@@ -1,0 +1,19 @@
+{
+    "name": "allangcruz/carinho-compra",
+    "description": "sistema para brincar com teste automatizado",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Allan Gonçalves da Cruz",
+            "email": "allangcruz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AllanGCruz\\Carinho\\" : "app/"  
+        }
+    }
+}
