@@ -15,5 +15,10 @@
         "psr-4": {
             "AllanGCruz\\Carrinho\\" : "app/"  
         }
+    },
+    "scripts": {
+        "teste": [
+            "vendor/bin/phpunit"
+        ]
     }
 }
